@@ -1,0 +1,1 @@
+java -cp fortunecookie.jar fc.Client 12345
